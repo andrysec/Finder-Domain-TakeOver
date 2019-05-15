@@ -35,3 +35,21 @@ $ chmod +x finder
 $ ./finder --help
 
 <img src="FinderExample.png">
+
+
+### Follow US :
+
+##### Instagram - https://www.instagram.com/wahyudi.18/
+##### Facebook  - https://www.facebook.com/sec.bugbounty
+
+### Donate!
+
+Support the authors:
+
+#### Paypal:
+
+https://paypal.me/andrystreamer
+
+#### LiberaPay:
+
+<noscript><a href="https://liberapay.com/andrysec17/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
